@@ -68,3 +68,4 @@ To create a new branch you use 'git checkout -b branch-name'
 This won't always work though, which leads to merge conflicts
 
 GitHub:
+You can push changes to GitHub, which I like to do through the app
