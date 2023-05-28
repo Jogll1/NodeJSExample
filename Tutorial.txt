@@ -50,3 +50,5 @@ Then search '>git' and click 'Add gitignore' and type 'Node' to get the node.js 
 To make a commit type in the terminal: 'git add .' to prepare to commit all files
 'git reset .' will reverse (unstage) these files
 A tip is to make small commits
+To commit: 'git commit -m "message goes here"' (the -m adds the message flag)
+Or click the commit button in vscode
